@@ -18,13 +18,13 @@ defaults:
   -
     scope:
       path: ""
-      type: "pages"
+      type: "page"
     values:
       layout: "default"
   -
     scope:
       path: "auditions"
-      type: "pages"
+      type: "page"
     values:
       category: "auditions"
 

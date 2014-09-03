@@ -8,6 +8,11 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://chalmers-choir.github.io" # the base hostname & protocol for your site
 
+# Standardkategorier i den ordning de skall visas i menyn.
+sections: [
+  ['auditions', 'Auditions']
+]
+
 # Defaults
 defaults:
   -
@@ -21,7 +26,7 @@ defaults:
       path: "auditions"
       type: "pages"
     values:
-      category: "audition"
+      category: "auditions"
 
 # Build settings
 markdown: kramdown

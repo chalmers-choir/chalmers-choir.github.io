@@ -8,5 +8,20 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://chalmers-choir.github.io" # the base hostname & protocol for your site
 
+# Defaults
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  -
+    scope:
+      path: "auditions"
+      type: "pages"
+    values:
+      category: "audition"
+
 # Build settings
 markdown: kramdown

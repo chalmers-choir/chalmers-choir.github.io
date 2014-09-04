@@ -1,6 +1,6 @@
 ---
 title: Skapa auditions
-permalink: skapa-auditions.html
+category: auditions
 ---
 ##Skapa nod
 Från menyn välj `Lägg till innehåll`.

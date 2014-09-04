@@ -13,20 +13,7 @@ sections: [
   ['auditions', 'Auditions']
 ]
 
-# Defaults
-defaults:
-  -
-    scope:
-      path: ""
-      type: "page"
-    values:
-      layout: "page"
-  -
-    scope:
-      path: "auditions"
-      type: "page"
-    values:
-      category: "auditions"
+permalink: none
 
 # Build settings
 markdown: kramdown

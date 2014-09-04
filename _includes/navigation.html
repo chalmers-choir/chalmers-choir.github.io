@@ -1,0 +1,29 @@
+<div class="navbar navbar-default" role="navigation">
+  <div class="navbar-header">
+    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".sidebar-navbar-collapse">
+      <span class="sr-only">Växla navigering</span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+    </button>
+    <span class="visible-xs navbar-brand">Meny</span>
+  </div>
+  <div class="navbar-collapse collapse sidebar-navbar-collapse">
+    <ul class="nav nav-list">
+      <li><a href="{{ site.baseurl }}/">Hem</a></li>
+      
+      {% for section in site.sections %}
+        {% assign attr = section[0] %}
+        {% assign label = section[1] %}
+        
+        {% for page in site.categories[attr] %}
+          {% if forloop.first %}
+            <li class=nav-header>{{ label }}</li>
+          {% endif %}
+          <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
+        {% endfor %}
+      {% endfor %}
+
+    </ul>
+  </div>
+</div>

@@ -66,3 +66,7 @@ Märk väl att texten skall vara på svenska och engelsk text gör man i övers�
 ### From
 
 Vilket e-postadress som meddelandet skall komma ifrån. Vill man ha samma e-postadress som sidan använder sig av `choir@chs.chalmers.se` lämnar man fältet blankt.
+
+### Språk
+
+Här anger vi vilket språk som skall användas för ämne och meddelande. Vi använder språket som används på sidan som visas. Så om man är på en nod på engelska är det engelska som kommer användas.

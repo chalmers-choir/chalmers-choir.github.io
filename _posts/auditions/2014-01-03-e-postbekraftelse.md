@@ -62,3 +62,7 @@ Här anger vi vilket ämne e-postmeddelandet skall ha. Här använder vi två va
 Här är själva texten i e-postmeddelandet. Här använder vi bland annat information om noden; url, titel och tid. Vi använder även namnet på den som registrerat sig.
 
 Märk väl att texten skall vara på svenska och engelsk text gör man i översättningsgränssnittet.
+
+### From
+
+Vilket e-postadress som meddelandet skall komma ifrån. Vill man ha samma e-postadress som sidan använder sig av `choir@chs.chalmers.se` lämnar man fältet blankt.

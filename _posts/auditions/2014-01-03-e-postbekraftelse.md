@@ -57,11 +57,13 @@ Vilken e-postadress vi skall skicka till. Här anger vi den e-postadress man anv
 
 Här anger vi vilket ämne e-postmeddelandet skall ha. Här använder vi två variabler `[associated-node:title]` och `[site:name]`. Om vi använt oss av `Audition` som titel på nod, så är det `[associated-node:title]`. `[site:name]` är det som har satts i Drupals konfiguration och är i dagsläget `Chalmers Sångkör`.
 
+Märk väl att texten skall vara på svenska och engelsk text gör man i [översättningsgränssnittet]({% post_url /language/2014-01-04-oversatt-strangar %}).
+
 ### Meddelande
 
 Här är själva texten i e-postmeddelandet. Här använder vi bland annat information om noden; url, titel och tid. Vi använder även namnet på den som registrerat sig.
 
-Märk väl att texten skall vara på svenska och engelsk text gör man i översättningsgränssnittet.
+Märk väl att texten skall vara på svenska och engelsk text gör man i [översättningsgränssnittet]({% post_url /language/2014-01-04-oversatt-strangar %}).
 
 ### From
 

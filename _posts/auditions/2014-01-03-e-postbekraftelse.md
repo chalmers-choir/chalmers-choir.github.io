@@ -15,7 +15,7 @@ Sedan väljer vi rules:
 
 [![Välj Rules](/images/rules.png)](/images/rules.png)
 
-Alternativt så går man på adressen `/admin/config/workflow/rules`.
+Alternativt så går man på adressen [`/admin/config/workflow/rules`](http://chalmerssångkör.se/admin/config/workflow/rules).
 
 Här ser vi vilka regler vi har och vilka som är aktiverade:
 

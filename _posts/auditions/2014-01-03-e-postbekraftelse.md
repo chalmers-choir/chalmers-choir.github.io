@@ -39,7 +39,7 @@ Klickar man på `Send mail` kan man se alla inställningar för just e-postmedde
 
 ## E-postinställningar
 
-Så här ser sidan ut för själva e-postmeddelandet:
+Så här ser sidan ut för inställningarna av e-postmeddelandet:
 
 [![Inställningar skicka e-post](/images/rules_email_settings.png)](/images/rules_email_settings.png)
 

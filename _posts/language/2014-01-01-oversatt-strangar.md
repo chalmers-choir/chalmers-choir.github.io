@@ -27,7 +27,7 @@ Vi skall nu göra ett exempel på hur man översätter meddelandetexten på e-po
 
 [![Exempel översätt sträng](/images/translate-translate-example.png)](/images/translate-translate-example.png)
 
-Vi skriver början på textsträngen i fältet `Textsträng innehåller` och sedan trycker på `filtrera`. Vi kan välja att begränsa sökningen till en viss del av Drupal. I detta fallet behöver vi inte det.
+Vi skriver början på textsträngen i fältet `Textsträng innehåller` och sedan trycker på `filtrera`. Vi kan välja att begränsa sökningen till en viss del av Drupal. I detta fall behöver vi inte det.
 
 För att göra den engelska översättningen trycker vi på `redigera`.
 

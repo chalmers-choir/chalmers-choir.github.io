@@ -1,7 +1,10 @@
 ---
 title: Redigera registreringsinställningar
 category: auditions
+layout: page-no-header
 ---
+<h1>Redigera registrerings&shy;inställningar</h1>
+
 ## Hitta inställningar för registrering
 
 På noden vi vill ändra inställningarna på väljer vi först `Manage registrations`.

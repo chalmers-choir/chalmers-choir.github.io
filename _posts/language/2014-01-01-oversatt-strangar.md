@@ -11,7 +11,7 @@ Det första man behöver veta för att översätta strängar är att all text ma
 
 [![Hitta översätt gränssnitt](/images/menu-translate-interface.png)](/images/menu-translate-interface.png)
 
-Alternativt går man via adressen `/admin/config/regional/translate`.
+Alternativt går man via adressen [`/admin/config/regional/translate`](http://chalmerssångkör.se/admin/config/regional/translate).
 
 ## Översättningsgränssnittet
 

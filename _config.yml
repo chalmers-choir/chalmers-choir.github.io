@@ -9,6 +9,7 @@ url: "http://chalmers-choir.github.io" # the base hostname & protocol for your s
 # Standardkategorier i den ordning de skall visas i menyn.
 sections: [
   ['auditions', 'Auditions'],
+  ['content', 'Innehåll'],
   ['language', 'Språk']
 ]
 
